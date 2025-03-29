@@ -1,6 +1,6 @@
 # Hi there 👋🏾, I'm Mosa!
 
-[![Profile Banner](https://raw.githubusercontent.com/MosaSethosa/mosa_dev/main/profile_banner.png "Header")](/)
+[![Profile Banner](https://raw.githubusercontent.com/MosaSethosa/MosaSethosa/main/profile_banner.png "Header")](/)
 
 <h1> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2AA5FF&width=435&lines=Certified+Java+Developer;Certified+AWS+Developer;Data+Scientist;NLP+Researcher;" alt="Typing SVG" />
