@@ -9,8 +9,11 @@
 # 🚀 About Me
 ```diff
 🎓 BSc IT in Computer Science and Informatics
-🎓 BSc Honours in Computer Science
+📚 BSc Honours in Computer Science
 💻 Software Developer | Data Scientist
+📜 Java Certified Foundations Associate
+📜 AWS Certified Developer Associate
+📜 AWS Certified Cloud Practitioner
 ```
 
 # 📧 Connect with Me
@@ -74,4 +77,3 @@
 ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Drawdotio](https://img.shields.io/badge/diagramsdotnet-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![]()
